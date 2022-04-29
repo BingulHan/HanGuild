@@ -1,0 +1,16 @@
+name: HanGuild
+version: '${project.version}'
+main: online.bingulhan.hanguild.HanGuild
+authors: [ BingulHan ]
+description: Lonca Plugini
+softdepend: [PlaceholderAPI]
+website: www.bingulhan.online
+commands:
+  lonca:
+    description: lonca
+  clan:
+    description: lonca
+  guild:
+    description: lonca
+  klan:
+    description: lonca
